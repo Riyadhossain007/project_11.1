@@ -1,0 +1,39 @@
+.header{
+	min-height: 80px;
+	background-color: mediumseagreen;
+}
+
+
+.banner{
+	min-height: 200px;
+	background-color: slateblue;
+}
+.aside{
+	min-height: 200px;
+	background-color: blue;
+	opacity: .7;
+}
+.slider1{
+	min-height: 250px;
+	background-color: lightgreen;
+}
+.slider2{
+	min-height: 250px;
+	background-color:lightgreen;
+}
+.slider3{
+	min-height: 250px;
+	background-color: lightgreen;
+}
+.slider4{
+	min-height: 250px;
+	background-color: lightgreen;
+}
+.footer1{
+	min-height: 200px;
+	background-color: orange;
+}
+.footer2{
+	min-height: 200px;
+	background-color: orange;
+}
